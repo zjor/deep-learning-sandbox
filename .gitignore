@@ -1,0 +1,4 @@
+activate.sh
+virtualenv/
+*.h5
+*.pyc
